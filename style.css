@@ -1,0 +1,17 @@
+.random_text {
+    width: 50%;
+}
+
+.cat {
+    width: 20%;
+    height: 20%;
+}
+
+.picture_container {
+    display: flex;
+}
+
+.heart {
+    margin: 15px 0 0 5px;
+    width: 30px;
+}
